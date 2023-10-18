@@ -1,8 +1,8 @@
 provider "aws" {
     region = "us-east-1"
     # shared_credentials_files = "D:/DevOps/AWS/test_user_accessKeys"
-    access_key = "AKIARAJ7I62XUATP2SMW"
-    secret_key = "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"
+    access_key = ""
+    secret_key = ""
 }
 
 variable vpc_cidr_block {}
